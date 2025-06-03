@@ -7,17 +7,18 @@
 
 ## 💼 About Me
 
-I'm a results-driven data professional fully focused on **Data Engineering**. I’m passionate about building scalable data pipelines, transforming raw data into value, and enabling better decision-making through clean architecture and automation.
+I'm a results-driven data professional fully focused on **Data Engineering/Data Analyst**. I’m passionate about building scalable data pipelines, transforming raw data into value, and enabling better decision-making through clean architecture and automation.
 
 Currently:
-- ⚙️ Building real-world projects using **Databricks**, **Azure**, **PySpark**, and **SQL**
+- ⚙️ Building real-world projects using **Databricks**, **Azure**, **PySpark**, **Power BI**, **Tableau** and **SQL**
 - 🎯 Actively looking for Data Engineer roles to apply my skills and grow further
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Languages:** SQL, Python, PySpark  
+- **Languages:** SQL, Python, PySpark
+- **Visualization Tools:** Tableau, Power BI  
 - **Cloud Platforms:** Azure (Data Factory, Synapse), Snowflake  
 - **Tools & Frameworks:** Databricks, Power BI, Git, DBT  
 - **Data Handling:** ETL, Data Warehousing, Data Modeling  
