@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Geedhu Kizhakepura Velayudhan!
 
-🎯 Azure Data Engineer | Data Analyst💡 Turning data into insights and impact  
+🎯 Azure/AWS Data Engineer | Data Analyst💡 Turning data into insights and impact  
 📍 Based in Ontario, Canada | 🌐 Open to remote & hybrid opportunities
 
 ---
